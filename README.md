@@ -165,6 +165,7 @@ Here are the some examples of different countries maps.
 
 ### 1. Bubble map on India Geographical region
 ![india bubble map](https://github.com/Anujarya300/bubble_maps/blob/master/images/india.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fdatamaps.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fdatamaps?ref=badge_shield)
 
 [india.html](https://github.com/Anujarya300/bubble_maps/blob/master/india.html)
 ```
@@ -670,3 +671,7 @@ If the aspect ratio of your custom map is not the default `16:9` (`0.5625`), you
 
 * Do not run the `grunt build` task or submit any built files in your PR.
 * Have an example in `src/examples` if adding a new feature. Copy an existing feature `.html` file to start.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fdatamaps.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fdatamaps?ref=badge_large)
